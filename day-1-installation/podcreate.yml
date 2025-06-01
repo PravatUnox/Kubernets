@@ -1,0 +1,14 @@
+apiVersion : v1
+Kind : pod
+Metadata : 
+  name : 
+  labels :
+     app :
+     type :
+
+spec :
+ container :
+   -name :
+   image : 
+
+  
